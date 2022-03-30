@@ -1,2 +1,1 @@
 # JAVA
-Java Karşılaştırmalar
