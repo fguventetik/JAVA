@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Tutorial_Methods
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ merhaba()
+comment3.params=a
+comment3.target=void\ selamla(java.lang.String)
+comment4.params=x\ y
+comment4.target=int\ toplama(int,\ int)
+comment5.params=a\ b
+comment5.target=void\ selamla(java.lang.String,\ int)
+numComments=6
